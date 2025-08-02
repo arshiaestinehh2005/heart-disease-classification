@@ -1,0 +1,9 @@
+📦 Requirements
+The following Python libraries are required to run the notebook
+
+pandas  
+numpy  
+matplotlib  
+seaborn  
+scikit-learn  
+notebook  
