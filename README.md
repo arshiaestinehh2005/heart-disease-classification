@@ -21,3 +21,9 @@ Used [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+D
 ## 🚀 How to run
 ```bash
 python heart_disease_classifier.py
+
+✍ Author
+
+Arshia Estineh
+Machine Learning Developer | France 🇫🇷
+📧 Arshiaestineh2005@icloud.com
